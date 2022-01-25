@@ -1,0 +1,3 @@
+- I like to speak *Spanish*
+- I like to play **Chess**
+- I like to *explore the **WORLD!***
