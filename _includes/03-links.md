@@ -1,1 +1,1 @@
-![My favorite site](https://www.yahoo.com)
+[The Onion! (ha ha ha)](https://www.theonion.com)
